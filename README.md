@@ -80,18 +80,18 @@ This project addresses **concurrency issues** and **race conditions** that can o
 ## Project Structure
 src/
 ├── main/
-│ ├── java/
-│ │ └── com/
-│ │ └── moviebooking/
-│ │ ├── controller/ # Controller classes
-│ │ ├── model/ # Model classes
-│ │ ├── service/ # Service classes
-│ │ ├── dao/ # DAO classes
-│ │ └── util/ # Utility classes
-│ └── resources/
-│ ├── fxml/ # FXML files for UI
-│ ├── img/ # Images used in the application
-│ └── other resources (e.g., CSS, properties files)
+│   ├── java/
+│   │   └── com/
+│   │       └── moviebooking/
+│   │           ├── controller/          # Controller classes
+│   │           ├── model/               # Model classes
+│   │           ├── service/             # Service classes
+│   │           ├── dao/                 # DAO classes
+│   │           └── util/                # Utility classes
+│   └── resources/
+│       ├── fxml/                        # FXML files for UI
+│       ├── img/                         # Images used in the application
+│       └── other resources (e.g., CSS, properties files)
 
 ---
 
