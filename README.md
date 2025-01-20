@@ -97,5 +97,26 @@ src/
 ---
 
 ## Screenshots
-### Login Screen
+### Admin
+#### Login Screen
 ![Login Screen](Screenshots/loginScreen.png)
+#### Admin Screen
+![Admin Screen](Screenshots/AdminScreen.png)
+#### Assign Admin Screen
+![Assign Screen](Screenshots/AssignAdmin.png)
+#### Add Movie Screen
+![Add Movie Screen](Screenshots/AddMovie.png)
+#### All Movies Screen
+![All Movies Screen](Screenshots/AllMovies.png)
+#### Movie Details for Admin Screen
+![Movie Details Screen](Screenshots/AdminMovieDetails.png)
+### User
+#### Movie Details for User Screen
+![Movie Details Screen](Screenshots/UserMovieDetails.png)
+#### Handling Invalid Input Screen
+![Handle Screen](Screenshots/HandlingInvalidInput.png)
+#### Booking Seats Dashboard
+![Seats Screen](Screenshots/BookSeats.png)
+#### Ticket Screen
+![Ticket Screen](Screenshots/TicketScreen.png)
+![Booked Seats](Screenshots/BookedSeats.png)
