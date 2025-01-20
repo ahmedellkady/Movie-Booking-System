@@ -97,3 +97,5 @@ src/
 ---
 
 ## Screenshots
+### Login Screen
+![Login Screen](Screenshots/loginScreen.png)
